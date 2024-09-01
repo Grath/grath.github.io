@@ -1,0 +1,18 @@
+{
+  "java": {
+    "version": "1.8.0_201",
+    "location": "http://xmage.today/java/jre-8u201-"
+  },
+  "XMage": {
+    "version": "1.4.53-dev (20240901T171358)",
+    "location": "https://github.com/Grath/mage/releases/download/test-release/mage-bundle-20240901T171358.zip",
+    "locations": [],
+    "full": "https://github.com/Grath/mage/releases/download/test-release/mage-bundle-20240901T171358.zip",
+    "torrent": "",
+    "images": "",
+    "Launcher": {
+      "version": "0.3.8",
+      "location": "http://bit.ly/xmageLauncher038"
+    }
+  }
+}
