@@ -4,10 +4,10 @@
     "location": "http://xmage.today/java/jre-8u201-"
   },
   "XMage": {
-    "version": "1.4.59-dev (20260618T181737)",
-    "location": "https://github.com/Grath/grath.github.io/releases/download/20260618T181737/mage-bundle-20260618T181737.zip",
+    "version": "1.4.60-dev (20260625T160713)",
+    "location": "https://github.com/Grath/grath.github.io/releases/download/20260625T160713/mage-bundle-20260625T160713.zip",
     "locations": [],
-    "full": "https://github.com/Grath/grath.github.io/releases/download/20260618T181737/mage-bundle-20260618T181737.zip",
+    "full": "https://github.com/Grath/grath.github.io/releases/download/20260625T160713/mage-bundle-20260625T160713.zip",
     "torrent": "",
     "images": "",
     "Launcher": {
